@@ -1,6 +1,6 @@
 # CS4722-Assignments
 
-# Assignment 1
+# Assignment No 1
 This is a Pyton Program doing a tas
 Write a program to do the following
 1.Load an image from the disk
